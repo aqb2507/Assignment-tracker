@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://aquibmohd3438:20c130AIDS@gettingstarted.kld9ezn.mongodb.net/?retryWrites=true&w=majority",
+    "offineURL": "mongodb://localhost:27017/engagement-platform"
+}
